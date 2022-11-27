@@ -38,3 +38,4 @@ navText.textContent = "Hello World!"
 const navbar = document.querySelector("nav");
 navbar.innerHTML= "<h1>Hello!</h1> <p>This Should Align Right</p>";
 navbar.style.color = "maroon";
+navbar.style.justifyContent = "space-between";
